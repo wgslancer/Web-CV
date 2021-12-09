@@ -34,6 +34,9 @@ a:hover {
   max-width: 662px;
   padding: 0 20px;
 }
+.education .work-list {
+  list-style-type: none;
+}
 @media only screen and (max-width: 767px) {
   .intro img {
     display: block;
